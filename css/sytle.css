@@ -1,0 +1,43 @@
+.title{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 100px;
+}
+.text{
+   margin-left: 300px;
+}
+.box{
+    display: flex;
+   
+}
+.btn{
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.inp{
+    margin-left: 50px;
+    height: 20px;
+    margin-top: 10px;
+}
+.card__wrapper{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.card{
+    box-shadow: 0px 0px 10px 0px black;
+    margin-left: 50px;
+}
+.card h4{
+    margin-top: -10px;
+    text-align: center;
+}
+.card p{
+    margin-top: -20px;
+    text-align: center;
+}
+.img{
+    width: 100px;
+    height: 100px;
+}
